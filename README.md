@@ -1,5 +1,5 @@
 # hello_world
-###This is my first repository on github. I am landed here from Google's Data Analytics Profession Certificate course on Coursera.
+This is my first repository on github. I am landed here from Google's Data Analytics Profession Certificate course on Coursera.
 
 *How I prepared it?*
 1. I use github guide
